@@ -1,1 +1,1 @@
-document.body.style.backgroundImage = "url('http://media1.santabanta.com/full1/Creative/Abstract/abstract-333v.jpg')";
+document.body.style.backgroundImage = "url('https://wallpaperscraft.com/image/mountain_river_snow_nature_92721_1920x1080.jpg')";
