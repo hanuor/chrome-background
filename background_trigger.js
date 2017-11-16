@@ -1,0 +1,1 @@
+document.body.style.backgroundImage = "url('http://media1.santabanta.com/full1/Creative/Abstract/abstract-333v.jpg')";
